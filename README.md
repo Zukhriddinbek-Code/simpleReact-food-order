@@ -1,4 +1,7 @@
 # simpleReact-food-order
+
+LiveDemo: https://simple-food-order.netlify.app/
+
 During my React js course, I was able to learn core features of React with this project.
 And with this project I was able to learn components, props, React hooks, Forms, GET/POST requests in React, and much more. 
 Very simple project, in firebase we created back end server which provides us for free and uploaded the list of meals and from there we did GET request 
